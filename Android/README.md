@@ -12,4 +12,5 @@ https://github.com/Gracker/Rss-IT
 http://www.devtf.cn
 https://github.com/bboyfeiyu/android-tech-frontier
 
-
+4.Android-Tips: Android 技术相关人员必看
+http://gold.xitu.io/entry/55f78b2eddb25bb7713153de
