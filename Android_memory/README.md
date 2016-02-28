@@ -13,3 +13,4 @@ Java 内存泄露的理解与解决过程  http://www.codeceo.com/article/java-m
 
 Android内存泄露案例分析  http://www.csdn.net/article/2015-09-07/2825631
 
+TraceView工具使用   http://myeyeofjava.iteye.com/blog/2250801
