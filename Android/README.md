@@ -14,3 +14,6 @@ https://github.com/bboyfeiyu/android-tech-frontier
 
 4.Android-Tips: Android 技术相关人员必看
 http://gold.xitu.io/entry/55f78b2eddb25bb7713153de
+
+5.Android打包的那些事
+http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/
