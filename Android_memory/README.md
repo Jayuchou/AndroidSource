@@ -17,3 +17,6 @@ TraceView工具使用   http://myeyeofjava.iteye.com/blog/2250801
 
 #Android 内存泄漏总结
 http://gold.xitu.io/entry/56d64b9e816dfa005943a55c?utm_source=leopost&utm_medium=20160302&utm_campaign=weibo
+
+#深入理解Java内存模型
+http://www.infoq.com/cn/author/%E7%A8%8B%E6%99%93%E6%98%8E
