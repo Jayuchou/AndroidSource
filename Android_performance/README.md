@@ -131,6 +131,10 @@ http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=2&sn=4b95bcfe
 2.使用Android studio分析内存泄露
 http://www.jianshu.com/p/c49f778e7acf
 
+#第七：性能调试工具
+
+http://gold.xitu.io/entry/563ae1b560b216575c53c3d6
+
 
 
 
